@@ -10,7 +10,10 @@
 #   coursework specification. Every data structure and algorithm is built
 #   from Python's built-in types (list, dict, set, tuple) only.
 #   Sub-functions defined with 'def' are permitted and are used below.
-#
+
+# ADDITIONAL NOTE:
+# Use of AI//LLM : I have used AI language model (ChatGPT) to assist with improve grammer and Vocabulary in the comments and docstrings.
+# The code logic and implementation is entirely my own work, and I have not used AI to generate any code or algorithmic content.
 # -----------------------------------------------------------------------------
 # BACKGROUND - PATH PLANNING IN ROBOT NAVIGATION  (Lecture 9+10, Slide 6)
 # -----------------------------------------------------------------------------
